@@ -22,7 +22,7 @@ function maiorNum(num1,num2){
 function clickConsole(){
     console.log("O botão foi clicado");
     console.log("Olá Mundo");
-    nome("Dafne");
+    nome("Kayke");
     numeroDobro(8);
     media(50,100,100);
     maiorNum(50,50);
