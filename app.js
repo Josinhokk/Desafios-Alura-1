@@ -24,7 +24,7 @@ function clickConsole(){
     console.log("Olá Mundo");
     nome("Kayke");
     numeroDobro(8);
-    media(50,100,100);
+    media(100,100,100);
     maiorNum(50,50);
     imc(100,10);
     dolar(10);
